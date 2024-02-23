@@ -1,16 +1,16 @@
-### Hi there 👋
+# 💫 About Me:
+👋 Hey there! I'm Ahsan, a seasoned software engineer with 7 years of hands-on experience crafting digital solutions. My journey in the tech world has been fueled by curiosity and a passion for innovation.<br><br>💻 My strengths lie in Golang, TypeScript, and, Node.js, where I thrive in architecting robust and scalable systems. I'm also diving deep into Java and Python, eager to expand my toolkit and delve into new realms of coding excellence.<br><br>🚀 Throughout my career, I've honed my skills across various domains. From leveraging AWS services, including CDK, to wrangling data in databases like Postgres, MySQL, and DynamoDB, I'm adept at navigating the complexities of modern tech stacks.<br><br>🌐 When it comes to web frameworks, I'm your go-to person. Whether it's building APIs with Beego in Golang or crafting elegant applications with NestJS and Express.js, I'm all about bringing ideas to life on the web.<br><br>🐳 I'm no stranger to the world of containers and orchestration. With proficiency in Docker and Kubernetes and GitHub Actions for CI/CD pipelines, I ensure smooth sailing from development to deployment.<br><br>🛠️ But that's not all! I thrive on exploring new technologies, from mastering gRPC to harnessing the power of Redis and whipping up automation with bash scripting.<br><br>🌟 Let's connect, collaborate, and code our way to new horizons. Together, we can turn ideas into reality and push the boundaries of what's possible in the digital world!
 
-<!--
-**engr-ahsan/engr-ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engr-ahsan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahsanjamal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4258571) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=engr-ahsan&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=engr-ahsan&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-ahsan&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=engr-ahsan&icon=0&color=0)](https://visitcount.itsvg.in)
